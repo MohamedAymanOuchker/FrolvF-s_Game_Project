@@ -2,6 +2,10 @@
 
 Welcome to my first Unity project! This simple game/project was built as part of the [Unity Essentials Pathway](https://learn.unity.com/pathway/unity-essentials) to explore the fundamentals of Unity development.
 
+## Unity Essentials Pathway badge 
+
+- [Badge](https://www.credly.com/badges/c7cab56a-9a5b-4d83-a30c-e41ab0442663/public_url)
+
 ## 📦 Project Overview
 
 - **Project Name**: FrolvF's Game
